@@ -1,0 +1,41 @@
+.bg-con {
+  background-color: #fff;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-con {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  height: 50vh;
+  width: 30vw;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: bolder;
+}
+.description {
+  color: #334155;
+  font-size: 30px;
+}
+.btn {
+  background-color: #fff;
+  color: #1e293b;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+}
+.term {
+  font-size: 15px;
+  font-weight: bold;
+}
